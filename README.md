@@ -145,3 +145,25 @@ import { FaStar, FaRegStar } from "react-icons/fa";
 
  <FaStar />
 ```
+
+
+# TO DO
+ 1  pages:
+ -homepage(lista libri)
+ -detail
+ -about us
+
+ 2 Layout:
+  -default layout
+    -componetns
+      -header
+      -footer
+
+ 3 components
+ -Header
+ -footer
+ -cards
+ -reviwesCard
+ -reviewList
+ -reviewForm
+ 
