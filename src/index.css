@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+.heroContainer {
+
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+
+    h1 {
+        color: #ffa903;
+    }
+}
+
+ul {
+    display: flex;
+
+    li {
+        justify-content: flex-end;
+    }
+}
+
+.blue-bg {
+    background-color: #0e3fa9;
+}
+
+.yellow-font {
+    color: #ffa903;
+}
+
+.active {
+    font-style: italic;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
